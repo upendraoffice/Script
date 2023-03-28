@@ -34,7 +34,7 @@
     echo "
     ############# THIS SCRIPT IS WRITTEN BY ###################
     #                                                         #
-    #       UPENDRA       ANUBHAV      RAJNEESH.              #
+    #       UPENDRA       ANUBHAV      RAJNEESH               #
     #                                                         #
     #                    MARCH-2023                           #
     ###########################################################
